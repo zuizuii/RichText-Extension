@@ -1,0 +1,22 @@
+{
+    "name": "com.zuizui.richtext.extension",
+    "version": "0.0.2",
+    "displayName": "Logging",
+    "description": "This is an RichText Extension package",
+    "unity": "2019.1",
+    "unityRelease": "0b5",
+    "documentationUrl": "https://example.com/",
+    "changelogUrl": "https://example.com/changelog.html",
+    "licensesUrl": "https://example.com/licensing.html",
+    "dependencies": {},
+    "keywords": [
+        "zuizui",
+        "RichText",
+        "tools"
+    ],
+    "author": {
+        "name": "Zuizui",
+        "email": "1100tamtam@gmail.com",
+        "url": "https://www.unity3d.com"
+    }
+}
