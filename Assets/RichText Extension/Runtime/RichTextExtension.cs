@@ -130,7 +130,7 @@ namespace Zuizui.Extensions.Richtext
 
 		static string ColorToHex(Color32 color32)
 		{
-			return "#" + color32.r.ToString("X2") + color32.g.ToString("X2") + color32.b.ToString("X2");
+			return "#" + color32.r.ToString("X2") + color32.g.ToString("X2") + color32.b.ToString("X2") + color32.a.ToString("X2");
 		}
 
 		static Color HexToColor(string hexVal)
